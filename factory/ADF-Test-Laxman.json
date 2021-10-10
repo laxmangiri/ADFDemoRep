@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Test-Laxman",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "44faf95b-40d7-4bc0-813e-f8306c3bc413",
+		"tenantId": "5c0ee11f-deb3-4e14-a81b-2410b2508da9"
+	}
+}
